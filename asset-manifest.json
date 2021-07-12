@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/new_react/static/css/main.7a2685f5.chunk.css",
-    "main.js": "/new_react/static/js/main.537ef2ce.chunk.js",
-    "main.js.map": "/new_react/static/js/main.537ef2ce.chunk.js.map",
-    "runtime-main.js": "/new_react/static/js/runtime-main.a502e0b6.js",
-    "runtime-main.js.map": "/new_react/static/js/runtime-main.a502e0b6.js.map",
-    "static/js/2.cef874f3.chunk.js": "/new_react/static/js/2.cef874f3.chunk.js",
-    "static/js/2.cef874f3.chunk.js.map": "/new_react/static/js/2.cef874f3.chunk.js.map",
-    "static/js/3.821c8d50.chunk.js": "/new_react/static/js/3.821c8d50.chunk.js",
-    "static/js/3.821c8d50.chunk.js.map": "/new_react/static/js/3.821c8d50.chunk.js.map",
-    "index.html": "/new_react/index.html",
-    "static/css/main.7a2685f5.chunk.css.map": "/new_react/static/css/main.7a2685f5.chunk.css.map",
-    "static/js/2.cef874f3.chunk.js.LICENSE.txt": "/new_react/static/js/2.cef874f3.chunk.js.LICENSE.txt",
-    "static/media/video_1.85d7bb38.mp4": "/new_react/static/media/video_1.85d7bb38.mp4"
+    "main.css": "/demo_react/static/css/main.7a2685f5.chunk.css",
+    "main.js": "/demo_react/static/js/main.537ef2ce.chunk.js",
+    "main.js.map": "/demo_react/static/js/main.537ef2ce.chunk.js.map",
+    "runtime-main.js": "/demo_react/static/js/runtime-main.94c7701f.js",
+    "runtime-main.js.map": "/demo_react/static/js/runtime-main.94c7701f.js.map",
+    "static/js/2.7c7c2214.chunk.js": "/demo_react/static/js/2.7c7c2214.chunk.js",
+    "static/js/2.7c7c2214.chunk.js.map": "/demo_react/static/js/2.7c7c2214.chunk.js.map",
+    "static/js/3.821c8d50.chunk.js": "/demo_react/static/js/3.821c8d50.chunk.js",
+    "static/js/3.821c8d50.chunk.js.map": "/demo_react/static/js/3.821c8d50.chunk.js.map",
+    "index.html": "/demo_react/index.html",
+    "static/css/main.7a2685f5.chunk.css.map": "/demo_react/static/css/main.7a2685f5.chunk.css.map",
+    "static/js/2.7c7c2214.chunk.js.LICENSE.txt": "/demo_react/static/js/2.7c7c2214.chunk.js.LICENSE.txt",
+    "static/media/video_1.85d7bb38.mp4": "/demo_react/static/media/video_1.85d7bb38.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.a502e0b6.js",
-    "static/js/2.cef874f3.chunk.js",
+    "static/js/runtime-main.94c7701f.js",
+    "static/js/2.7c7c2214.chunk.js",
     "static/css/main.7a2685f5.chunk.css",
     "static/js/main.537ef2ce.chunk.js"
   ]
